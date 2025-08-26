@@ -1,8 +1,7 @@
 # Adult Depression: Data Modeling and Visualization
 
 ## 📌 Project Description
-This project is a **scientific research (penelitian ilmiah)** created as part of the coursework for the subject **Pengantar Sains Data (Introduction to Data Science)**.  
-It analyzes adult depression rates using public health survey data from Kaggle, combining **data modeling** to identify influencing factors and **visualization** to present insights interactively.
+This project is a **scientific research (penelitian ilmiah)** created as part of the coursework for the subject **Pengantar Sains Data (Introduction to Data Science)**. It analyzes adult depression rates using public health survey data from Kaggle, combining **data modeling** to identify influencing factors and **visualization** to present insights interactively.
 
 ---
 
@@ -31,8 +30,7 @@ The best-performing model achieved an **R² score of 99.9%**, indicating:
 ---
 
 ## Visualization Summary
-The interactive Power BI dashboard presents adult depression rates segmented by demographic and socioeconomic factors.  
-It provides a clear overview of how depression prevalence differs across groups.
+The interactive Power BI dashboard presents adult depression rates segmented by demographic and socioeconomic factors. It provides a clear overview of how depression prevalence differs across groups.
 
 ---
 
